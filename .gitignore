@@ -1,0 +1,6 @@
+# Exclude other HTML files
+afterlife-party-flyer.html
+afterlife-party-flyer-no-audio.html
+
+# Exclude Docker files
+docker-compose.yml
